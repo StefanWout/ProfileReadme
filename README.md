@@ -6,11 +6,14 @@
   
   <p>
     <span style="color:#e34c26; font-weight:bold;">HTML</span> • 
-    <span style="color:#2965f1; font-weight:bold;">CSS (Bootstrap / Tailwind)</span> • 
-    <span style="color:#2c3e50; font-weight:bold;">Full-Stack Development</span> • 
+    <span style="color:#2965f1; font-weight:bold;">CSS</span> • 
+    <span style="color:#2c3e50; font-weight:bold;">Bootstrap</span> • 
+    <span style="color:#16a085; font-weight:bold;">Tailwind</span> • 
     <span style="color:#3776AB; font-weight:bold;">Python & Django</span> • 
-    <span style="color:#f7df1e; font-weight:bold;">JavaScript</span> (<span style="color:#61DBFB;">React</span> / <span style="color:#3178C6;">TypeScript</span>) • 
-    <span style="color:#16a085; font-weight:bold;">Client Relationship Building</span> • 
+    <span style="color:#3776AB; font-weight:bold;">Django</span> • 
+    <span style="color:#f7df1e; font-weight:bold;">JavaScript</span> ( / ) •
+    <span style="color:#f7df1e; font-weight:bold;">React</span> •
+    <span style="color:#f7df1e; font-weight:bold;">TypeScript</span> •
     <span style="color:#4285F4; font-weight:bold;">Google Cloud Digital Leader</span> • 
     <span style="color:#FF9900; font-weight:bold;">AWS Certified Data Engineer</span> • 
     <span style="color:#8e44ad; font-weight:bold;">PC Building & Maintenance</span> • 
