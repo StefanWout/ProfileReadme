@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm [Your Name]</h1>
-  <p><em>Full-Stack Developer | Cloud Certified | Tech Enthusiast</em></p>
+  <h1>👋 Hi, I'm Stefan</h1>
+  <p><em>Data Engineer | Full-Stack Developer | Cloud Certified | Tech Enthusiast</em></p>
 
   <h2>🚀 Tech Stack & Skills</h2>
   
