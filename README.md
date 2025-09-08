@@ -11,7 +11,7 @@
     <span style="color:#16a085; font-weight:bold;">Tailwind</span> • 
     <span style="color:#3776AB; font-weight:bold;">Python & Django</span> • 
     <span style="color:#3776AB; font-weight:bold;">Django</span> • 
-    <span style="color:#f7df1e; font-weight:bold;">JavaScript</span> ( / ) •
+    <span style="color:#f7df1e; font-weight:bold;">JavaScript</span>•
     <span style="color:#f7df1e; font-weight:bold;">React</span> •
     <span style="color:#f7df1e; font-weight:bold;">TypeScript</span> •
     <span style="color:#4285F4; font-weight:bold;">Google Cloud Digital Leader</span> • 
